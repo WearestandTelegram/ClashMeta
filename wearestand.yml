@@ -82,7 +82,7 @@ proxies:
 
   - {name: "🇮🇹 T.ME/wearestand", type: http, server: 194.233.96.24, port: 89, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
 
-  - {name: "🇩🇰 T.ME/iranramona", type: http, server: 85.190.238.27, port: 90, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
+  - {name: "🇩🇰 T.ME/iranramona", type: http, server: 85.190.238.27, port: 89, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
 
   - {name: "🇺🇸 T.ME/wearestand", type: http, server: 66.111.61.233, port: 90, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
  
