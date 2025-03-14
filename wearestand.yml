@@ -236,7 +236,7 @@ rule-providers:
     interval: 86400
 
 rules:
-  - IP-CIDR,10.10.34.0/24,PROXY
+  - IP-CIDR,10.10.34.0/24,ابول کور کور ایذه
   - RULE-SET,private,DIRECT,no-resolve
   - RULE-SET,apps,DIRECT
   - RULE-SET,ads,REJECT
