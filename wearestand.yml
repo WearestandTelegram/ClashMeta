@@ -66,106 +66,109 @@ dns:
 
 proxies:
 
-  - {name: "🇨🇦CANADA", type: http, server: 66.111.61.161, port: 89, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
+  - {name: "🇨🇦 T.ME/wearestand", type: http, server: 66.111.61.161, port: 89, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
 
-  - {name: "🇨🇾CYPRUS", type: http, server: 195.47.194.17, port: 89, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
+  - {name: "🇨🇾 T.ME/iranramona", type: http, server: 195.47.194.17, port: 89, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
 
-  - {name: "🇬🇪GEORGIA", type: http, server: 81.17.123.114, port: 89, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
+  - {name: "🇬🇪 T.ME/wearestand", type: http, server: 81.17.123.114, port: 89, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
 
-  - {name: "🇧🇴BOLIVIA", type: http, server: 45.134.189.3, port: 90, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
+  - {name: "🇧🇴 T.ME/iranramona", type: http, server: 45.134.189.3, port: 90, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
  
 
-  - {name: "🇭🇳HONDURAS", type: http, server: 193.9.32.3, port: 90, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
+  - {name: "🇭🇳 T.ME/wearestand", type: http, server: 193.9.32.3, port: 90, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
 
 
-  - {name: "🇩🇪GERMANY", type: http, server: 194.233.96.24, port: 90, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
+  - {name: "🇩🇪 T.ME/iranramona", type: http, server: 194.233.96.24, port: 90, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
 
-  - {name: "🇮🇹ITALY", type: http, server: 194.233.96.24, port: 89, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
+  - {name: "🇮🇹 T.ME/wearestand", type: http, server: 194.233.96.24, port: 89, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
 
-  - {name: "🇩🇰DENMARK", type: http, server: 85.190.238.27, port: 90, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
+  - {name: "🇩🇰 T.ME/iranramona", type: http, server: 85.190.238.27, port: 90, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
 
-  - {name: "🇺🇸UNITED STATES", type: http, server: 66.111.61.233, port: 90, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
+  - {name: "🇺🇸 T.ME/wearestand", type: http, server: 66.111.61.233, port: 90, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
  
 
-  - {name: "🇫🇷FRANCE", type: http, server: 185.81.125.67, port: 89, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
+  - {name: "🇫🇷 T.ME/iranramona", type: http, server: 185.81.125.67, port: 89, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
 
 
-  - {name: "🇪🇪ESTONIA", type: http, server: 85.190.239.114, port: 90, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
+  - {name: "🇪🇪 T.ME/wearestand", type: http, server: 85.190.239.114, port: 90, username: XWYvRVwmMgwTMhB2LVwAkWAW, password: mvgojzp3aSXrWgD9AfyeLWMN, tls: true, skip-cert-verify: true, sni: www.google.com}
 
 
  
 
 proxy-groups:
-- name: 'PROXY'
+- name: 'ابول کور کور ایذه'
   type: 'select'
   proxies:
-  - '⚡️ Fastest'
-  - '📶 First Available'
-  - '♻️ Load Balance'
-  - 🇨🇦CANADA
-  - 🇨🇾CYPRUS
-  - 🇬🇪GEORGIA
-  - 🇧🇴BOLIVIA
-  - 🇭🇳HONDURAS
-  - 🇩🇪GERMANY
-  - 🇮🇹ITALY
-  - 🇩🇰DENMARK
-  - 🇺🇸UNITED STATES
-  - 🇫🇷FRANCE
-  - 🇪🇪ESTONIA
+  - 'تظاهرات سراسری'
+  - 'کانال wearestand'
+  - 'رضا شاه روحت شاد'
+  - 🇨🇦 T.ME/wearestand
+  - 🇨🇾 T.ME/iranramona
+  - 🇬🇪 T.ME/wearestand
+  - 🇧🇴 T.ME/iranramona
+  - 🇭🇳 T.ME/wearestand
+  - 🇩🇪 T.ME/iranramona
+  - 🇮🇹 T.ME/wearestand
+  - 🇩🇰 T.ME/iranramona
+  - 🇺🇸 T.ME/wearestand
+  - 🇫🇷 T.ME/iranramona
+  - 🇪🇪 T.ME/wearestand
 
-- name: '⚡️ Fastest'
+- name: 'تظاهرات سراسری'
   type: 'url-test'
   tolerance: 150
   url: 'https://www.gstatic.com/generate_204'
   interval: 300
   proxies:
-  - 🇨🇦CANADA
-  - 🇨🇾CYPRUS
-  - 🇬🇪GEORGIA
-  - 🇧🇴BOLIVIA
-  - 🇭🇳HONDURAS
-  - 🇩🇪GERMANY
-  - 🇮🇹ITALY
-  - 🇩🇰DENMARK
-  - 🇺🇸UNITED STATES
-  - 🇫🇷FRANCE
-  - 🇪🇪ESTONIA
 
-- name: '📶 First Available'
+  - 🇨🇦 T.ME/wearestand
+  - 🇨🇾 T.ME/iranramona
+  - 🇬🇪 T.ME/wearestand
+  - 🇧🇴 T.ME/iranramona
+  - 🇭🇳 T.ME/wearestand
+  - 🇩🇪 T.ME/iranramona
+  - 🇮🇹 T.ME/wearestand
+  - 🇩🇰 T.ME/iranramona
+  - 🇺🇸 T.ME/wearestand
+  - 🇫🇷 T.ME/iranramona
+  - 🇪🇪 T.ME/wearestand
+
+- name: 'کانال wearestand'
   type: 'fallback'
   url: 'https://www.gstatic.com/generate_204'
   interval: 300
   proxies:
-  - 🇨🇦CANADA
-  - 🇨🇾CYPRUS
-  - 🇬🇪GEORGIA
-  - 🇧🇴BOLIVIA
-  - 🇭🇳HONDURAS
-  - 🇩🇪GERMANY
-  - 🇮🇹ITALY
-  - 🇩🇰DENMARK
-  - 🇺🇸UNITED STATES
-  - 🇫🇷FRANCE
-  - 🇪🇪ESTONIA
 
-- name: '♻️ Load Balance'
+  - 🇨🇦 T.ME/wearestand
+  - 🇨🇾 T.ME/iranramona
+  - 🇬🇪 T.ME/wearestand
+  - 🇧🇴 T.ME/iranramona
+  - 🇭🇳 T.ME/wearestand
+  - 🇩🇪 T.ME/iranramona
+  - 🇮🇹 T.ME/wearestand
+  - 🇩🇰 T.ME/iranramona
+  - 🇺🇸 T.ME/wearestand
+  - 🇫🇷 T.ME/iranramona
+  - 🇪🇪 T.ME/wearestand
+
+- name: 'رضا شاه روحت شاد'
   type: 'load-balance'
   url: 'https://www.gstatic.com/generate_204'
   interval: 300
   strategy: 'consistent-hashing'
   proxies:
-  - 🇨🇦CANADA
-  - 🇨🇾CYPRUS
-  - 🇬🇪GEORGIA
-  - 🇧🇴BOLIVIA
-  - 🇭🇳HONDURAS
-  - 🇩🇪GERMANY
-  - 🇮🇹ITALY
-  - 🇩🇰DENMARK
-  - 🇺🇸UNITED STATES
-  - 🇫🇷FRANCE
-  - 🇪🇪ESTONIA
+
+  - 🇨🇦 T.ME/wearestand
+  - 🇨🇾 T.ME/iranramona
+  - 🇬🇪 T.ME/wearestand
+  - 🇧🇴 T.ME/iranramona
+  - 🇭🇳 T.ME/wearestand
+  - 🇩🇪 T.ME/iranramona
+  - 🇮🇹 T.ME/wearestand
+  - 🇩🇰 T.ME/iranramona
+  - 🇺🇸 T.ME/wearestand
+  - 🇫🇷 T.ME/iranramona
+  - 🇪🇪 T.ME/wearestand
 
 rule-providers:
   ir:
@@ -243,4 +246,4 @@ rules:
   - RULE-SET,ir,DIRECT
   - RULE-SET,ircidr,DIRECT
   - RULE-SET,irasn,DIRECT
-  - MATCH,PROXY
+  - MATCH,ابول کور کور ایذه
