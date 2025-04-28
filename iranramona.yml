@@ -227,13 +227,6 @@ rule-providers:
     url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/private.txt"
     path: ./ruleset/private.txt
     interval: 86400
-  irasn:
-    type: http
-    format: text
-    behavior: classical
-    url: "https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/irasn.txt"
-    path: ./ruleset/irasn.txt
-    interval: 86400
 
 rules:
   - IP-CIDR,10.10.34.0/24,ابول کور کور ایذه
@@ -244,6 +237,4 @@ rules:
   - RULE-SET,phishing,REJECT
   - RULE-SET,cryptominers,REJECT
   - RULE-SET,ir,DIRECT
-  - RULE-SET,ircidr,DIRECT
-  - RULE-SET,irasn,DIRECT
   - MATCH,ابول کور کور ایذه
