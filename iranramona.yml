@@ -237,4 +237,5 @@ rules:
   - RULE-SET,phishing,REJECT
   - RULE-SET,cryptominers,REJECT
   - RULE-SET,ir,DIRECT
+  - RULE-SET,ircidr,DIRECT
   - MATCH,ابول کور کور ایذه
